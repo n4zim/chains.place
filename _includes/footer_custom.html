@@ -1,5 +1,29 @@
-
-[![CC BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-The content of this repository is licensed under a [CC BY-NC-SA 4.0](https://github.com/n4zim/chains.place/blob/main/LICENSE) license, you may redistribute it and/or modify it under the terms of the license.
-
+<div class="fs-3" style="text-align: center;">
+  <a
+    href="https://github.com/n4zim/chains.place/blob/main/LICENSE"
+    target="_blank"
+  >
+    <img
+      src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"
+      alt="CC BY-NC-SA 4.0"
+    />
+    <br/>
+    Copyright &copy; {{ "now" | date: '%Y' }} Nazim Lachter
+  </a>
+  {% assign powered = "Powered by" %}
+  {% assign theme = "with" %}
+  {% assign hosted = "and hosted on" %}
+  {% if page.lang == "fr" %}
+    {% assign powered = "Propulsé par" %}
+    {% assign theme = "avec" %}
+    {% assign hosted = "et hébergé sur" %}
+  {% endif %}
+  <p>
+    {{ powered }}
+    <a href="https://github.com/jekyll/jekyll" target="_blank">Jekyll</a>
+    {{ theme }}
+    <a href="https://github.com/just-the-docs/just-the-docs" target="_blank">Just the Docs</a>
+    {{ hosted }}
+    <a href="https://github.com/n4zim/chains.place" target="_blank">GitHub</a>
+  </p>
+</div>
