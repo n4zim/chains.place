@@ -1,0 +1,8 @@
+version: "3"
+services:
+  jekyll:
+    image: jekyll/jekyll
+    command: jekyll serve
+    network_mode: host
+    volumes:
+      - .:/srv/jekyll:Z
