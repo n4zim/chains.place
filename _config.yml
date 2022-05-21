@@ -1,7 +1,9 @@
 title: Chains Place
-email: nlachter@gmail.com
 
 url: https://chains.place
 domain: chains.place
+
+author: Nazim Lachter
+email: nlachter@gmail.com
 
 remote_theme: just-the-docs/just-the-docs
