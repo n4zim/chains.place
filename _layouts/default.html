@@ -65,11 +65,15 @@ layout: table_wrappers
         {% include nav.html pages=site.html_pages %}
       {% endif %}
     </nav>
-    <footer class="site-footer" style="text-align: center;">
+    <footer class="site-footer">
       {% if page.lang == "fr" %}
-        <a href="{{ page.permalink | replace: '/fr/', '/en/' }}" class="btn btn-outline fs-3">Switch to english</a>
+        <a href="{{ page.permalink | replace: '/fr/', '/en/' }}" class="btn btn-outline fs-3" style="width: 100%;text-align: center;">
+          Switch to english
+        </a>
       {% else %}
-        <a href="{{ page.permalink | replace: '/en/', '/fr/' }}" class="btn btn-outline fs-3">Passer en français</a>
+        <a href="{{ page.permalink | replace: '/en/', '/fr/' }}" class="btn btn-outline fs-3" style="width: 100%;text-align: center;">
+          Passer en français
+        </a>
       {% endif %}
     </footer>
   </div>
