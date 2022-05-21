@@ -1,0 +1,17 @@
+---
+nav_exclude: true
+---
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <script>
+      const language = navigator.language || navigator.userLanguage
+      if(language && language.indexOf("fr") !== -1) {
+        window.location.href = "/fr/"
+      } else {
+        window.location.href = "/en/"
+      }
+    </script>
+  </body>
+</html>
