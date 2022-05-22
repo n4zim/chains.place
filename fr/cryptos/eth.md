@@ -5,17 +5,11 @@ title: ETH - Ethereum
 parent: Crypto-monnaies
 ---
 
-# Informations
-
-Site officiel : [ethereum.org](https://ethereum.org/fr/){:target="_blank"}
-
-Date de création : 2015
-
 <script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
-<coingecko-coin-ticker-widget  coin-id="ethereum" currency="eur" locale="fr"></coingecko-coin-ticker-widget>
+<coingecko-coin-ticker-widget coin-id="ethereum" currency="eur" locale="fr"></coingecko-coin-ticker-widget>
 
-
-# Description
+- Site officiel : [ethereum.org](https://ethereum.org/fr/){:target="_blank"}
+- Date de lancement : 2015
 
 L'Ethereum est un système blockchain décentralisé et open source qui dispose de sa propre cryptomonnaie : l'Ether. L'ETH agit en tant que plateforme pour une multitude de cryptomonnaies mais aussi pour l'exécution de contrats intelligents.
 

@@ -10,7 +10,7 @@ has_tos: false
 # Prix (hors cryptos stables)
 
 <script src="https://widgets.coingecko.com/coingecko-coin-compare-chart-widget.js"></script>
-<coingecko-coin-compare-chart-widget coin-ids="cardano,bitcoin,pancakeswap-token,ethereum,midas" currency="eur" locale="fr"></coingecko-coin-compare-chart-widget>
+<coingecko-coin-compare-chart-widget coin-ids="cardano,binancecoin,bitcoin,pancakeswap-token,ethereum,midas" currency="eur" locale="fr"></coingecko-coin-compare-chart-widget>
 
 
 # Capitalisations

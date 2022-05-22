@@ -5,17 +5,11 @@ title: CAKE - PancakeSwap
 parent: Crypto-monnaies
 ---
 
-# Informations
-
-Site officiel : [pancakeswap.com](https://pancakeswap.com){:target="_blank"}
-
-Date de création : 2020
-
 <script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
-<coingecko-coin-ticker-widget  coin-id="pancakeswap-token" currency="eur" locale="fr"></coingecko-coin-ticker-widget>
+<coingecko-coin-ticker-widget coin-id="pancakeswap-token" currency="eur" locale="fr"></coingecko-coin-ticker-widget>
 
-
-# Description
+- Site officiel : [pancakeswap.com](https://pancakeswap.com){:target="_blank"}
+- Date de lancement : 2020
 
 PancakeSwap est un automated market maker (AMM) — une application de finance décentralisée (DeFi) qui permet aux utilisateurs d'échanger des jetons, de fournir de la liquidité via du farming et d'obtenir des récompenses en échange.
 

@@ -5,17 +5,11 @@ title: MIDAS - Midas
 parent: Crypto-monnaies
 ---
 
-# Informations
-
-Site officiel : [midas.investments](https://midas.investments){:target="_blank"}
-
-Date de création : 2019
-
 <script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
-<coingecko-coin-ticker-widget  coin-id="midas" currency="eur" locale="fr"></coingecko-coin-ticker-widget>
+<coingecko-coin-ticker-widget coin-id="midas" currency="eur" locale="fr"></coingecko-coin-ticker-widget>
 
-
-# Description
+- Site officiel : [midas.investments](https://midas.investments){:target="_blank"}
+- Date de lancement : 2019
 
 Midas.Investments est une plateforme d'investissement avec les taux d'intérêt les plus élevés sur les crypto-monnaies, soutenue par des stratégies de rendement DeFi transparentes et couvertes.
 

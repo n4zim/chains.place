@@ -5,17 +5,11 @@ title: BTC - Bitcoin
 parent: Crypto-monnaies
 ---
 
-# Informations
-
-Site officiel : [bitcoin.org](https://bitcoin.org/fr){: target="_blank" rel="noopener noreferrer" }
-
-Date de création : 2009
-
 <script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
-<coingecko-coin-ticker-widget  coin-id="bitcoin" currency="eur" locale="fr"></coingecko-coin-ticker-widget>
+<coingecko-coin-ticker-widget coin-id="bitcoin" currency="eur" locale="fr"></coingecko-coin-ticker-widget>
 
-
-# Description
+- Site officiel : [bitcoin.org](https://bitcoin.org/fr){: target="_blank" rel="noopener noreferrer" }
+- Date de lancement : 2009
 
 Le Bitcoin est une cryptomonnaie décentralisée présentée en 2008 dans un livre blanc par un individu (ou un groupe d'individus) agissant sous le pseudonyme de Satoshi Nakamoto. Son lancement a lieu en janvier 2009.
 

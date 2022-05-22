@@ -5,17 +5,11 @@ title: ADA - Cardano
 parent: Crypto-monnaies
 ---
 
-# Informations
-
-Site officiel : [cardano.org](https://cardano.org){:target="_blank"}
-
-Date de création : 2017
-
 <script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
-<coingecko-coin-ticker-widget  coin-id="cardano" currency="eur" locale="fr"></coingecko-coin-ticker-widget>
+<coingecko-coin-ticker-widget coin-id="cardano" currency="eur" locale="fr"></coingecko-coin-ticker-widget>
 
-
-# Description
+- Site officiel : [cardano.org](https://cardano.org){:target="_blank"}
+- Date de lancement : 2017
 
 Le Cardano est une plateforme blockchain qui s'appuie sur la preuve d'enjeu et dont l'objectif est de permettre « aux créateurs de solutions, aux innovateurs et aux visionnaires » d'amener un changement positif global.
 
