@@ -211,7 +211,7 @@ layout: table_wrappers
 
   {% if page.lang == "fr" %}
   <style>
-    #search-results > .search-no-result {
+    #search-results > .search-no-result, #main-content > h2.text-delta {
       visibility: hidden;
       position: relative;
     }
@@ -223,6 +223,16 @@ layout: table_wrappers
       content: "Aucun résultat trouvé";
       font-size: 14px;
       padding: 0.5rem 0.75rem;
+    }
+    #main-content > h2.text-delta::after {
+      visibility: visible;
+      position: absolute;
+      top: 0;
+      left: 0;
+      content: "TABLE DES MATIÈRES";
+      font-size: 11px;
+      font-weight: 400;
+      letter-spacing: 0.1em;
     }
   </style>
   {% endif %}

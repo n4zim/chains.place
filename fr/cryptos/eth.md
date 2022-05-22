@@ -1,6 +1,6 @@
 ---
 lang: fr
 permalink: /fr/cryptos/eth
-title: Ethereum (ETH)
+title: ETH - Ethereum
 parent: Crypto-monnaies
 ---
