@@ -4,4 +4,16 @@ permalink: /fr/cryptos/
 title: Crypto-monnaies
 nav_order: 5
 has_children: true
+has_tos: false
 ---
+
+# Prix (hors cryptos stables)
+
+<script src="https://widgets.coingecko.com/coingecko-coin-compare-chart-widget.js"></script>
+<coingecko-coin-compare-chart-widget coin-ids="cardano,bitcoin,pancakeswap-token,ethereum,midas" currency="eur" locale="fr"></coingecko-coin-compare-chart-widget>
+
+
+# Capitalisations
+
+<script src="https://widgets.coingecko.com/coingecko-coin-heatmap-widget.js"></script>
+<coingecko-coin-heatmap-widget height="450" locale="fr"></coingecko-coin-heatmap-widget>
