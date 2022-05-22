@@ -9,7 +9,6 @@ Bienvenue sur Chains Place ! Ce site dédié aux cryptomonnaies a été conçu d
 
 Vous pourrez trouver ici :
 - une introduction aux cryptomonnaies
-- une liste de définitions à connaître
 - des guides pour se lancer
 - un index des cryptomonnaies les plus populaires
 - un index de plateformes à découvrir

@@ -2,6 +2,6 @@
 lang: fr
 permalink: /fr/guides/
 title: Guides
-nav_order: 4
+nav_order: 3
 has_children: true
 ---
