@@ -16,8 +16,8 @@ Vous pourrez trouver ici :
 Avertissement important avant de continuer : je ne me positionne en aucun cas comme un professionnel de la finance, mon but n'est pas de vous conseiller ce qu'il faut faire mais plutôt de vous expliquer ce que vous pouvez faire.
 
 Par ailleurs, avant de prendre une décision, mes deux conseils fondamentaux sont :
-- toujours effectuer des recherches et comprendre intégralement dans quoi vous vous engagez
-- les cryptomonnaies étant relativement nouvelles, vous vous exposez à un plus haut risque de pertes et il est donc important de n'investir QUE ce que vous êtes prêts à perdre
+- toujours effectuer des recherches et comprendre intégralement dans quoi vous vous engagez, je ne pourrai être tenu responsable de potentielles pertes de fonds
+- les cryptomonnaies étant relativement nouvelles, vous vous exposez à un plus haut risque d'investissement et il est donc important de n'investir QUE ce que vous êtes prêts à perdre
 
 Sans plus tarder, je vous invite à lire [l'introduction pour démarrer votre découverte](/fr/introduction).
 
