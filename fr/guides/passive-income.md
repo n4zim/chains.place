@@ -14,8 +14,18 @@ Dans ce guide je vous propose deux stratégies différentes (mais combinables) p
 - stratégie avec plus de risque avec des cryptomonnaies dont le cours est volatile
 
 
-## Stratégie avec des cryptomonnaies stables
+## Stratégies
+
+## Cryptomonnaies stables
 
 
-## Stratégie avec des cryptomonnaies volatiles
+## Cryptomonnaies volatiles
 
+
+## Définitions
+
+**APY (Annual Percentage Yield)** : Il s'agit d'un taux d'intérêt annuel, il est calculé en fonction du montant que vous avez investi ainsi que des intérêts reçus
+
+**APR (Annual Percentage Rate)** : Il s'agit du taux annuel effectif global, contrairement à l'APY il est calculé sans prendre en compte les intérêts reçus
+
+**HODL** : Principe d'investissement qui consiste à ne pas vendre ses cryptomonnaies et miser sur du long terme avant de décider de vendre. On peut aussi parler de HODLing pour désigner l'investissement en HODL.

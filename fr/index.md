@@ -28,9 +28,9 @@ Le code source de ce site est disponible en libre accès [sur GitHub](https://gi
 
 Voici la procédure pour contribuer :
 - [forkez le projet sur GitHub](https://github.com/n4zim/chains.place/fork){:target="_blank"}
-- utilisez `docker-compose up` pour démarrer le serveur
+- utilisez `docker-compose up` pour démarrer le serveur sur le port 4000
 - effectuez vos modifications dans le code source
-- [créez une pull request](https://github.com/n4zim/chains.place/compare){:target="_blank"} en présentant une description de votre contribution
+- [créez une pull request](https://github.com/n4zim/chains.place/compare){:target="_blank"} en indiquant une description de votre contribution
 
 
 ## Licence
