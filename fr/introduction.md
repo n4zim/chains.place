@@ -5,8 +5,6 @@ title: Introduction
 nav_order: 2
 ---
 
-# Les blockchains
-
 Avant de partir sur le sujet des cryptomonnaies, il est important d'en connaître un peu plus sur la technologie qui les rends possible : la chaîne de blocs (blockchain). Pour qu'un système de paiement fonctionne, il est indispensable de mettre en place deux concepts :
 - le principe de possession qui permet d'attester qu'une personne détient une certaine valeur
 - le principe de transaction qui permet de transférer une certaine valeur
@@ -21,7 +19,4 @@ La blockchain porte son nom car l'ensemble des transactions est indexé par un b
 
 Il existe aujourd'hui non pas une seule blockchain, mais plusieurs. La blockchain du Bitcoin est la plus connue mais il en existe une grande diversité comme ERC20 (utilisée par Ethereum) ou BEP2 (utilisée par Binance). Chaque blockchain a ses propres contraintes et ses propres algorithmes de validation, avec des avantages et des inconvénients. Généralement, il est intéressant de s'intéresser à la blockchain qui correspond aux cryptomonnaies qui vous intéressent.
 
-
-# Les cryptomonnaies
-
-Les blockchains sont des systèmes de paiement très puissants et il est donc possible de créer une grande variété de monnaies échangeables utilisées pour payer des produits et des services. Avec l'évolution des fonctionnalités des blockchains, il a été possible de créer un nouveau système de finance qui porte le nom de DeFi (pour "Finance décentralisée", "Decentralized Finance" en anglais). Il s'agit de toutes les applications autour de l'écosystème des cryptomonnaies qui proposent chacun leurs services autour des cryptomonnaies, et je vais vous en présenter certaines sur toutes celles qui peuvent exister.
+Les blockchains sont des systèmes de paiement très puissants et il est donc possible de créer une grande variété de monnaies échangeables utilisées pour payer des produits et des services. Avec l'évolution des fonctionnalités des blockchains, il a été possible de créer un nouveau système de finance qui porte le nom de DeFi (pour "Finance décentralisée", "Decentralized Finance" en anglais). Il s'agit de toutes les applications autour de l'écosystème des cryptomonnaies qui proposent chacun leurs services autour des cryptomonnaies, et je vais vous en présenter certaines sur toutes celles qui peuvent exister [à travers de multiples guides](/fr/guides/).

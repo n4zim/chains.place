@@ -19,7 +19,7 @@ Par ailleurs, avant de prendre une décision, mes deux conseils fondamentaux son
 - toujours effectuer des recherches et comprendre intégralement dans quoi vous vous engagez, je ne pourrai être tenu responsable de potentielles pertes de fonds
 - les cryptomonnaies étant relativement nouvelles, vous vous exposez à un plus haut risque d'investissement et il est donc important de n'investir QUE ce que vous êtes prêts à perdre
 
-Sans plus tarder, je vous invite à lire [l'introduction pour démarrer votre découverte](/fr/introduction).
+Sans plus tarder, je vous invite à lire [l'introduction pour démarrer votre découverte](/fr/introduction). Et si vous souhaitez vous lancer, découvrez [les guides pour démarrer](/fr/guides).
 
 
 ## Contributions
