@@ -45,10 +45,10 @@ Il existe un très grand nombre de plateformes de services autour des cryptomonn
 ## Pourcentages annuels de rendement
 
 | | [Hodlnaut](/fr/services/hodlnaut) | [Midas](/fr/services/midas) |
-| BNB   | ❌    | 13,20% |
-| BTC   | 5,20% | 12,10% |
-| BUSD  | ❌    | 22,00% |
-| ETH   | 5,44% | 13,40% |
-| MIDAS | ❌    | 30,00% |
-| USDC  | 9,00% | 22,00% |
-| USDT  | 9,00% | 22,00% |
+| BNB   | ❌    | 11,00% |
+| BTC   | 5,33% | 9,40%  |
+| BUSD  | ❌    | 14,50% |
+| ETH   | 4,28% | 10,60% |
+| MIDAS | ❌    | 27,40% |
+| USDC  | 9,41% | 14,50% |
+| USDT  | 9,41% | 14,50% |
