@@ -24,7 +24,7 @@ Sans plus tarder, je vous invite à lire [l'introduction pour démarrer votre d�
 
 ## Contributions
 
-Le code source de ce site est disponible en libre accès [sur GitHub](https://github.com/n4zim/chains.place){:target="_blank"} et je suis totalement ouvert à toute suggestion si vous en avez (correction, traductions, ajouts, ...).
+Le code source de ce site est disponible en libre accès [sur GitHub](https://github.com/n4zim/chains.place/tree/main/docs){:target="_blank"} et je suis totalement ouvert à toute suggestion si vous en avez (correction, traductions, ajouts, ...).
 
 Voici la procédure pour contribuer :
 - [forkez le projet sur GitHub](https://github.com/n4zim/chains.place/fork){:target="_blank"}
@@ -35,4 +35,4 @@ Voici la procédure pour contribuer :
 
 ## Licence
 
-Le contenu de ce dépôt est sous licence [CC BY-NC-SA 4.0](https://github.com/n4zim/chains.place/blob/main/LICENSE){:target="_blank"}, vous pouvez le redistribuer et/ou le modifier selon les termes de la licence.
+Le contenu de ce dépôt est sous licence [CC BY-NC-SA 4.0](https://github.com/n4zim/chains.place/blob/main/docs/LICENSE){:target="_blank"}, vous pouvez le redistribuer et/ou le modifier selon les termes de la licence.
